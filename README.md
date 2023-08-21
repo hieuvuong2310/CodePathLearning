@@ -1,5 +1,5 @@
 # codePathLearning
-# Prework - *Background popping*
+# Prework - *Background Colors*
 
 Submitted by: **Trong Hieu Vuong**
 
