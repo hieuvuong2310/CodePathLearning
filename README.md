@@ -3,7 +3,7 @@
 
 Submitted by: **Trong Hieu Vuong**
 
-**Background popping** is an app that changes the background color when clicking on the button
+**Background Colors** is an app that changes the background color when clicking on the button
 
 Time spent: **30** minutes spent in total
 
